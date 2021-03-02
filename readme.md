@@ -53,7 +53,9 @@ Autoregressive ntegrated moving average (ARIMA) model is a generalization of an 
 ## Installation and Instructions ##
 
 Execute --> python StockPredictor.py
+
 Navigate to localhost:8000
+
 Select stock symbol and number of days to predict
 
 ![Screenshot](data/scr1.JPG)
